@@ -4,6 +4,7 @@ javaskrip
   es6
   framwwork js
     vue
+    react
 interview
 php framework
   laravel
