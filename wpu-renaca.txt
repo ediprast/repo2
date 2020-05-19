@@ -2,7 +2,10 @@ Rencana konten wpu
 
 javaskrip
   es6
-  framwwork
+  framwwork js
+    vue
 interview
-php
+php framework
+  laravel
 materi fundamenttal
+python
