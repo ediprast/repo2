@@ -3,9 +3,10 @@ Rencana konten wpu
 javaskrip
   es6
   framwwork js
-  angular
-  react
+    vue
+    react
 interview
 php framework
-  code igniter
+  laravel
 materi fundamenttal
+python
